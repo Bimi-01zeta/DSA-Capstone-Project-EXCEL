@@ -1,5 +1,5 @@
 # DSA-Capstone-Project-EXCEL
-This project has to do with analyzing and visualizing  amazon product review analysis data.
+This project has to do with analyzing and visualizing  amazon product review analysis data file using MS.Excel.
 # Case Study 1: Amazon Product Review Analysis
 ## Overview
  Working as a Junior Data Analyst at RetailTech Insights, a company that helps e-commerce sellers on platforms like Amazon. I'm expected  to analyze product and customer review data to uncover insights that can guide product improvements, marketing, and customer engagement strategies.
